@@ -1,0 +1,18 @@
+5;2024.04.04;2;Out;0;0;0;
+6;2024.04.04;555;In+Out;0;0;54;2123123123;
+ID7;2024.04.05;3;Out;;0;2;0;programy.txt;
+ID8;2024.04.11;ads23;In;;;23;Poznámka pro chytré lidi.;PrerovRangeTranslations.txt;apes.jpg;
+ID9;2024.04.05;ASDyxc;Out;0;0;24;0;0;0;
+ID10;2024.04.05;asd;In;0;0;5;0;0;0;
+ID11;2024.04.05;sdaa;In;0;0;42;0;0;0;
+ID12;2024.04.05;DA;In;0;0;45;0;0;0;
+ID13;2024.04.05;vsf;In;0;0;53;0;0;0;
+ID14;2024.04.05;asd;Out;0;0;5;0;0;0;
+ID14;2024.04.05;asd;Out;0;0;5;0;0;0;ID15;2024.04.05;s;In;0;0;5;0;0;0;
+ID15;2024.04.05;asd;Out;0;0;53;0;0;0;
+ID16;2024.04.05;asd;Out;0;0;5;0;0;0;
+ID17;2024.04.05;das;Out;0;0;24;0;0;0;
+ID18;2024.04.08;PrerovskaStrelnice;In;;;550;0;programy.txt;mitrofanov.jpg;
+ID18;2024.04.08;Strelnice Prerov;In;;;552;oPoznamka;programy.txt;mitrofanov.jpg;
+ID18;2024.04.08;NAZEVSRELNICE;In;;;999;POZNAMKA;StrelnicePrerov-mail templates.txt;hack.jpg;
+ID19;2024.04.08;nazev;In;10000;POZNAMKA;PrerovRangeTranslations.txt;apes.jpg;

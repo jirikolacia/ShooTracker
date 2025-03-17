@@ -1,0 +1,27 @@
+For summaries:
+Location = "Umístění"
+Start Segment = "Začátek bloku"
+End Segment = "Konec bloku"
+Occupancy booked = "Aktuální obsazenost"
+Max Occupancy = "Maximální obsazenost"
+
+Headers:
+Summary Table = "Shrnutí rezervací"
+Instructors calendar = "Kalendář směn instruktorů"
+Booking management table = "Správa rezervací"
+Events = "Události"
+
+Months - in czech please.
+
+Would it be possible to start instructor calendar week by monday instead of sunday?
+===========================
+For reservations:
+Střelnice:
+
+Střeliště A
+Střeliště B 
+Střeliště C 
+Učebna
+Střelnice velín (likely to be removed, depending on today)
+
+

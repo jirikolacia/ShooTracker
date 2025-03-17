@@ -1,0 +1,8 @@
+greenshot / snagit na screeny
+irfanview
+adobe
+visual studio
+qt
+notepad++
+visio
+mysql workbench

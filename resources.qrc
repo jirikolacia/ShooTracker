@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resourcefolder/icons8-check-50.png</file>
+        <file>resourcefolder/icons8-check-100.png</file>
+        <file>resourcefolder/icons8-ammo-62.png</file>
+        <file>resourcefolder/icons8-gun-50.png</file>
+        <file>resourcefolder/icons8-gun-100.png</file>
+        <file>resourcefolder/icons8-safe-50.png</file>
+        <file>resourcefolder/icons8-safe-100.png</file>
+        <file>resourcefolder/icons8-target-50.png</file>
+        <file>resourcefolder/icons8-target-100.png</file>
+        <file>resourcefolder/icons8-settings-50.png</file>
+        <file>resourcefolder/icons8-settings-100.png</file>
+        <file>resourcefolder/icons8-shooting-66.png</file>
+        <file>resourcefolder/icons8-back-50.png</file>
+        <file>resourcefolder/icons8-back-100.png</file>
+        <file>resourcefolder/icons8-close-50.png</file>
+        <file>resourcefolder/icons8-close-100.png</file>
+        <file>resourcefolder/weapons-2719713_1280.png</file>
+        <file>resourcefolder/icons8-scope-64.png</file>
+    </qresource>
+    <qresource prefix="/attachments">
+        <file>resourcefolder/attachments/foregrip.png</file>
+        <file>resourcefolder/attachments/magazine50.png</file>
+        <file>resourcefolder/attachments/magazine100.png</file>
+        <file>resourcefolder/attachments/pistol_stock.png</file>
+        <file>resourcefolder/attachments/scope.png</file>
+        <file>resourcefolder/attachments/silencer.png</file>
+        <file>resourcefolder/attachments/stock.png</file>
+        <file>resourcefolder/target.ico</file>
+    </qresource>
+</RCC>

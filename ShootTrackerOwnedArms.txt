@@ -1,0 +1,4 @@
+ID1;Glock
+ID2;CZ75
+ID3;SA58
+ID4;Win .308

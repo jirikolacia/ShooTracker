@@ -1,0 +1,43 @@
+[name, surname]
+[phone number]
+[email]
+[booking_time]
+[booking_type]
+
+[booking_time_old]
+[booking_time_new]
+
+
+
+Confirmation:
+from: rezervace@strelniceprerov.cz or info or no reply
+to: [email]
+Vážený [name, surname], tímto potvrzujeme Vaši rezervaci [booking_type] kterou máte na [booking_time].
+S pozdravem,
+
+Střelnice Přerov
+
+
+
+Modification:
+from: rezervace@strelniceprerov.cz or info or no reply
+to: [email]
+Vážený [name, surname], Vámi vytvořená rezervace [booking_type], která měla proběhnout [booking_time_old] byla přesunuta personálem střelnice.
+Nový čas: [booking_time_new]
+
+Děkujeme za pochopení.
+
+S pozdravem,
+
+Střelnice Přerov
+
+
+
+Cancelation:
+from: rezervace@strelniceprerov.cz or info or no reply
+to: [email]
+Vážený [name, surname], Vámi vytvořená rezervace [booking_type], ze dne [booking_time] byla zrušena personálem střelnice.
+
+S pozdravem,
+
+Střelnice Přerov
